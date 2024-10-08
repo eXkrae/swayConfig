@@ -1,0 +1,32 @@
+# Colors (Nord)
+
+# Default colors
+[colors.primary]
+background = '#262626' # 1
+foreground = '#929292' # 2
+
+[colors.cursor]
+text    = '#181819'
+cursor  = '#e2e2e3'
+
+# Normal colors
+[colors.normal]
+black   = '#262626' # 4
+red     = '#ff5f5f' # 5
+green   = '#9ed072'
+yellow  = '#e7c664'
+blue    = '#262626' # 1
+magenta = '#878787'
+cyan    = '#8141c1' # 3
+white   = '#7f8490'
+
+# Bright colors
+[colors.bright]
+black   = '#eeeeee'
+red     = '#ff6077'
+green   = '#8141c1' # 7
+yellow  = '#d7af5f' # 6
+blue    = '#9ed072'
+magenta = '#d75f00'
+cyan    = '#005faf'
+white   = '#e3e3e3' # 2
