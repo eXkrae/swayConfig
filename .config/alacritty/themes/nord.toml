@@ -17,14 +17,14 @@ green   = '#9ed072'
 yellow  = '#e7c664'
 blue    = '#262626' # 1
 magenta = '#878787'
-cyan    = '#8141c1' # 3
+cyan    = '#81a1c1' # 3
 white   = '#7f8490'
 
 # Bright colors
 [colors.bright]
 black   = '#eeeeee'
 red     = '#ff6077'
-green   = '#8141c1' # 7
+green   = '#81a1c1' # 7
 yellow  = '#d7af5f' # 6
 blue    = '#9ed072'
 magenta = '#d75f00'

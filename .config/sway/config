@@ -53,7 +53,7 @@ set $menu wofi --show drun -I -c ~/.config/wofi/config -s ~/.config/wofi/style.c
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg ~/Pictures/001.jpg fill
+output * bg ~/.config/sway/Wallpaper/001.jpg fill
 #
 # Example configuration:
 #
